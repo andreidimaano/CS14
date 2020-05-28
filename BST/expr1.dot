@@ -1,0 +1,16 @@
+digraph G {
+"papa" -> "alpha";
+"papa" -> "quebec";
+"alpha" -> "golf";
+"golf" -> "bravo";
+"golf" -> "india";
+"bravo" -> "charlie";
+"charlie" -> "delta";
+"delta" -> "epsilon";
+"epsilon" -> "foxtrot";
+"india" -> "juliet";
+"juliet" -> "kilo";
+"kilo" -> "lima";
+"lima" -> "mike";
+"mike" -> "nov";
+}
